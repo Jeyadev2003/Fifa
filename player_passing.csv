@@ -1,0 +1,681 @@
+player,position,team,birth_year,passes_completed,passes,assists
+Aaron Mooy,MF,Australia,1990,170,217,0
+Aaron Ramsey,MF,Wales,1990,88,112,0
+Abdelhamid Sabiri,MF,Morocco,1996,45,58,1
+Abdelkarim Hassan,DF,Qatar,1993,122,161,0
+Abderrazak Hamdallah,FW,Morocco,1990,8,15,0
+Abdessamad Ezzalzouli,FW,Morocco,2001,10,13,0
+Abdou Diallo,DF,Senegal,1996,139,186,0
+Abdul Fatawu Issahaku,FW,Ghana,2004,1,1,0
+Abdulaziz Hatem,MF,Qatar,1990,72,91,0
+Abdulelah Al-Amri,DF,Saudi Arabia,1997,74,104,0
+Abdulellah Al-Malki,MF,Saudi Arabia,1994,66,84,0
+Abdullah Madu,DF,Saudi Arabia,1993,5,13,0
+Abdulrahman Al-Aboud,MF,Saudi Arabia,1995,8,13,0
+Abolfazl Jalali,DF,IR Iran,1998,20,29,0
+Achraf Dari,DF,Morocco,1999,99,111,0
+Achraf Hakimi,DF,Morocco,1998,312,382,1
+Adrien Rabiot,MF,France,1995,237,284,1
+Agustín Canobbio,MF,Uruguay,1998,5,7,0
+Ahmad Nourollahi,MF,IR Iran,1993,35,54,0
+Ahmed Alaaeldin,FW,Qatar,1993,0,2,0
+Aimen Dahmen,GK,Tunisia,1997,48,77,0
+Ajdin Hrustic,MF,Australia,1996,17,21,0
+Akram Afif,FW,Qatar,1996,139,165,0
+Alan Franco,MF,Ecuador,1998,10,11,0
+Alejandro Balde,DF,Spain,2003,112,123,0
+Aleksandar Mitrović,FW,Serbia,1994,54,69,0
+Alex Sandro,DF,Brazil,1991,150,169,0
+Alex Telles,DF,Brazil,1992,33,42,0
+Alexander Bah,DF,Denmark,1997,37,53,0
+Alexander Djiku,DF,Ghana,1994,22,28,0
+Alexis Mac Allister,MF,Argentina,1998,234,265,1
+Alexis Vega,FW,Mexico,1997,40,56,0
+Ali Abdi,DF,Tunisia,1993,72,116,0
+Ali Al Hassan,MF,Saudi Arabia,1997,4,7,0
+Ali Al-Bulaihi,DF,Saudi Arabia,1989,78,97,0
+Ali Assadalla,MF,Qatar,1993,21,23,0
+Ali Gholizadeh,MF,IR Iran,1996,46,72,1
+Ali Karimi,MF,IR Iran,1994,34,45,0
+Ali Maâloul,DF,Tunisia,1990,39,63,0
+Alidu Seidu,DF,Ghana,2000,59,78,0
+Alireza Beiranvand,GK,IR Iran,1992,20,31,0
+Alireza Jahanbakhsh,MF,IR Iran,1993,11,17,0
+Alisson,GK,Brazil,1992,80,93,0
+Alistair Johnston,DF,Canada,1998,147,186,0
+Almoez Ali,FW,Qatar,1996,33,45,0
+Alphonso Davies,MF,Canada,2000,82,114,0
+Amadou Onana,MF,Belgium,2001,58,64,0
+Anass Zaroury,FW,Morocco,2000,8,13,0
+Andre-Frank Zambo Anguissa,MF,Cameroon,1995,113,130,1
+Andreas Christensen,DF,Denmark,1996,237,251,0
+Andreas Cornelius,FW,Denmark,1993,21,34,0
+Andreas Skov Olsen,FW,Denmark,1999,43,63,0
+Andrej Kramarić,FW,Croatia,1991,153,176,0
+Andries Noppert,GK,Netherlands,1994,157,192,0
+Andrija Živković,DF,Serbia,1996,71,96,2
+André Ayew,MF,Ghana,1989,30,37,0
+André Onana,GK,Cameroon,1996,45,59,0
+André Silva,FW,Portugal,1995,9,11,0
+Andrés Guardado,MF,Mexico,1986,11,16,0
+Anis Ben Slimane,MF,Tunisia,2001,29,46,0
+Ansu Fati,FW,Spain,2002,25,29,0
+Ante Budimir,FW,Croatia,1991,2,5,0
+Anthony Contreras,FW,Costa Rica,2000,15,26,0
+Antoine Griezmann,MF,France,1991,258,329,3
+Antoine Semenyo,FW,Ghana,2000,1,2,0
+Antonee Robinson,DF,United States,1997,173,241,0
+Antonio Rüdiger,DF,Germany,1993,229,252,0
+Antony,FW,Brazil,2000,86,109,0
+António Silva,DF,Portugal,2003,60,62,0
+Ao Tanaka,MF,Japan,1998,48,69,0
+Ardon Jasari,FW,Switzerland,2002,5,6,0
+Arkadiusz Milik,FW,Poland,1994,19,29,0
+Artur Jędrzejczyk,DF,Poland,1987,3,4,0
+Asiri Haitham,FW,Saudi Arabia,2001,1,2,0
+Assim Madibo,MF,Qatar,1996,58,70,0
+Atiba Hutchinson,MF,Canada,1983,100,112,0
+Aurélien Tchouaméni,MF,France,2000,426,474,0
+Awer Mabil,MF,Australia,1995,10,14,0
+Axel Disasi,DF,France,1998,61,78,0
+Axel Witsel,MF,Belgium,1989,169,177,0
+Ayase Ueda,FW,Japan,1998,7,12,0
+Aymeric Laporte,DF,Spain,1994,413,438,0
+Aziz Behich,DF,Australia,1990,152,203,0
+Azzedine Ounahi,MF,Morocco,2000,216,265,0
+Aïssa Laïdouni,MF,Tunisia,1996,99,123,1
+Baba Rahman,DF,Ghana,1994,66,100,0
+Badr Banoun,DF,Morocco,1993,21,22,0
+Bailey Wright,DF,Australia,1992,1,3,0
+Bamba Dieng,FW,Senegal,2000,9,16,0
+Bartosz Bereszyński,DF,Poland,1992,122,156,0
+Bassam Al-Rawi,DF,Qatar,1997,47,57,0
+Ben Davies,DF,Wales,1993,122,161,0
+Benjamin Pavard,DF,France,1996,82,90,0
+Bernardo Silva,MF,Portugal,1994,256,292,0
+Bilal El Khannous,MF,Morocco,2004,20,24,0
+Borna Barišić,DF,Croatia,1992,50,69,0
+Borna Sosa,DF,Croatia,1998,220,278,0
+Boualem Khoukhi,DF,Qatar,1990,169,197,0
+Boulaye Dia,FW,Senegal,1996,39,53,0
+Brandon Aguilera,MF,Costa Rica,2003,27,38,0
+Breel Embolo,FW,Switzerland,1997,46,62,0
+Brenden Aaronson,MF,United States,2000,41,50,0
+Brennan Johnson,FW,Wales,2001,10,17,0
+Bruno Fernandes,FW,Portugal,1994,188,233,3
+Bruno Guimarães,MF,Brazil,1997,43,54,0
+Bruno Petković,FW,Croatia,1994,40,75,0
+Bryan Mbeumo,FW,Cameroon,1999,49,85,0
+Bryan Oviedo,DF,Costa Rica,1990,67,89,0
+Bryan Ruiz,MF,Costa Rica,1985,8,12,0
+Bukayo Saka,FW,England,2001,84,108,0
+Callum Wilson,FW,England,1992,9,10,1
+Cameron Carter-Vickers,DF,United States,1997,50,58,0
+Carlos Gruezo,MF,Ecuador,1995,15,15,0
+Carlos Martínez,DF,Costa Rica,1999,10,15,0
+Carlos Soler,MF,Spain,1997,78,83,0
+Casemiro,MF,Brazil,1992,208,251,0
+Celso Borges,MF,Costa Rica,1988,98,120,0
+Charles De Ketelaere,FW,Belgium,2001,3,4,0
+Charly Rodríguez,MF,Mexico,1997,21,30,0
+Cheikhou Kouyaté,MF,Senegal,1989,19,23,0
+Cho Guesung,FW,Korea Republic,1998,40,63,0
+Cho Yumin,FW,Korea Republic,1996,0,0,0
+Chris Mepham,DF,Wales,1997,141,172,0
+Christian Bassogog,MF,Cameroon,1995,5,9,0
+Christian Eriksen,MF,Denmark,1992,188,230,0
+Christian Fassnacht,FW,Switzerland,1993,7,10,0
+Christian Nørgaard,MF,Denmark,1994,14,15,0
+Christian Pulisic,FW,United States,1998,83,141,2
+Christopher Wooh,DF,Cameroon,2001,25,31,0
+Cody Gakpo,FW,Netherlands,1999,93,148,0
+Collins Fai,DF,Cameroon,1992,99,146,0
+Connor Roberts,DF,Wales,1995,92,118,0
+Craig Goodwin,MF,Australia,1991,58,95,1
+Cristian Romero,DF,Argentina,1998,337,375,0
+Cristiano Ronaldo,FW,Portugal,1985,68,90,0
+Cyle Larin,FW,Canada,1995,21,29,0
+César Azpilicueta,DF,Spain,1989,171,181,1
+César Montes,DF,Mexico,1997,159,197,1
+Daichi Kamada,FW,Japan,1996,83,104,0
+Daizen Maeda,FW,Japan,1997,8,17,0
+Daley Blind,DF,Netherlands,1990,252,300,1
+Damian Szymański,MF,Poland,1995,8,8,0
+Dani Alves,DF,Brazil,1983,83,97,0
+Dani Carvajal,DF,Spain,1992,121,135,0
+Dani Olmo,FW,Spain,1998,162,198,1
+Daniel Amartey,DF,Ghana,1994,128,141,0
+Daniel Chacón,MF,Costa Rica,2001,1,1,0
+Daniel James,FW,Wales,1997,24,36,0
+Daniel Kyereh,MF,Ghana,1996,18,23,0
+Danilo,DF,Brazil,1991,230,269,0
+Danilo Pereira,DF,Portugal,1991,68,78,0
+Danny Ward,GK,Wales,1993,24,39,0
+Darko Lazović,DF,Serbia,1990,7,12,0
+Darwin Núñez,FW,Uruguay,1999,35,56,0
+David Raum,DF,Germany,1998,153,195,1
+David Wotherspoon,MF,Canada,1990,4,7,0
+Davy Klaassen,MF,Netherlands,1993,59,77,2
+Dayot Upamecano,DF,France,1998,314,351,0
+DeAndre Yedlin,DF,United States,1993,19,28,0
+Declan Rice,MF,England,1999,300,322,0
+Dejan Lovren,DF,Croatia,1989,405,460,1
+Denis Odoi,DF,Ghana,1988,2,2,0
+Denis Zakaria,MF,Switzerland,1996,20,23,0
+Denzel Dumfries,DF,Netherlands,1996,149,217,2
+Devis Epassy,GK,Cameroon,1993,57,83,0
+Diego Godín,DF,Uruguay,1986,87,103,0
+Diogo Costa,GK,Portugal,1999,113,160,0
+Diogo Dalot,DF,Portugal,1999,112,147,2
+Djibril Sow,MF,Switzerland,1997,84,97,1
+Djorkaeff Reasco,FW,Ecuador,1999,2,2,0
+Dominik Livaković,GK,Croatia,1995,194,228,0
+Dries Mertens,MF,Belgium,1987,22,33,0
+Dušan Tadić,MF,Serbia,1988,90,127,2
+Dušan Vlahović,FW,Serbia,2000,6,11,0
+Dylan Bronn,DF,Tunisia,1995,75,98,0
+Eden Hazard,MF,Belgium,1991,46,58,0
+Ederson,GK,Brazil,1993,28,31,0
+Edimilson Fernandes,FW,Switzerland,1996,65,82,0
+Edinson Cavani,FW,Uruguay,1987,27,37,0
+Edouard Mendy,GK,Senegal,1992,88,120,0
+Edson Álvarez,MF,Mexico,1997,86,114,0
+Eduardo Camavinga,DF,France,2002,88,100,0
+Ehsan Hajsafi,MF,IR Iran,1990,61,98,0
+Ellyes Skhiri,MF,Tunisia,1995,109,127,0
+Emiliano Martínez,GK,Argentina,1992,120,187,0
+Enner Valencia,FW,Ecuador,1989,40,57,0
+Enzo Ebosse,DF,Cameroon,1999,34,38,0
+Enzo Fernández,MF,Argentina,2001,412,471,1
+Eray Cömert,DF,Switzerland,1998,38,42,0
+Eric Dier,DF,England,1994,40,41,0
+Eric Maxim Choupo-Moting,FW,Cameroon,1989,44,66,0
+Erick Gutiérrez,MF,Mexico,1995,24,29,0
+Ethan Ampadu,MF,Wales,2000,108,144,0
+Everton Ribeiro,MF,Brazil,1989,15,18,0
+Exequiel Palacios,MF,Argentina,1998,25,28,0
+Fabian Frei,MF,Switzerland,1989,9,14,0
+Fabian Rieder,FW,Switzerland,2002,13,26,0
+Fabian Schär,DF,Switzerland,1991,65,82,0
+Fabinho,MF,Brazil,1993,51,57,0
+Facundo Pellistri,MF,Uruguay,2001,32,46,0
+Famara Diedhiou,FW,Senegal,1992,10,14,0
+Federico Valverde,MF,Uruguay,1998,159,189,0
+Ferjani Sassi,MF,Tunisia,1992,25,34,0
+Ferrán Torres,FW,Spain,2000,59,85,0
+Filip Kostić,DF,Serbia,1992,72,113,0
+Filip Mladenović,DF,Serbia,1991,20,25,0
+Filip Đuričić,MF,Serbia,1992,5,6,0
+Firas Al-Buraikan,MF,Saudi Arabia,2000,42,63,1
+Fodé Ballo-Touré,DF,Senegal,1997,5,8,0
+Fran Karačić,DF,Australia,1996,33,54,0
+Francisco Calvo,DF,Costa Rica,1992,86,104,0
+Fred,MF,Brazil,1993,71,83,0
+Frenkie de Jong,MF,Netherlands,1997,323,364,1
+Félix Torres Caicedo,DF,Ecuador,1997,168,208,1
+Gabriel Jesus,FW,Brazil,1997,22,28,0
+Garang Kuol,FW,Australia,2004,3,5,0
+Gareth Bale,FW,Wales,1989,33,53,0
+Gavi,MF,Spain,2004,133,154,0
+Gaël Ondoua,MF,Cameroon,1995,17,19,0
+Georges-Kévin N'Koudou,FW,Cameroon,1995,9,12,0
+Germán Pezzella,DF,Argentina,1991,42,45,0
+Gerson Torres,MF,Costa Rica,1997,16,16,0
+Ghaylène Chaalali,MF,Tunisia,1994,3,4,0
+Gideon Mensah,DF,Ghana,1998,36,46,1
+Gio Reyna,FW,United States,2002,26,38,0
+Giorgian De Arrascaeta,MF,Uruguay,1994,32,52,0
+Gleison Bremer,DF,Brazil,1997,78,84,0
+Gonzalo Montiel,DF,Argentina,1997,69,81,0
+Gonzalo Plata,MF,Ecuador,2000,77,104,0
+Gonçalo Ramos,FW,Portugal,2001,25,31,1
+Granit Xhaka,MF,Switzerland,1992,215,243,0
+Gregor Kobel,GK,Switzerland,1997,21,29,0
+Grzegorz Krychowiak,MF,Poland,1990,93,127,0
+Guido Rodríguez,MF,Argentina,1994,54,64,0
+Guillermo Ochoa,GK,Mexico,1985,93,109,0
+Guillermo Varela,DF,Uruguay,1993,62,92,0
+Haji Wright,FW,United States,1998,20,27,0
+Hakim Ziyech,FW,Morocco,1993,211,306,1
+Hannibal Mejbri,MF,Tunisia,2003,2,2,0
+Haris Seferović,FW,Switzerland,1992,10,14,0
+Harry Kane,FW,England,1993,62,98,3
+Harry Maguire,DF,England,1993,354,407,1
+Harry Souttar,DF,Australia,1998,138,167,0
+Harry Wilson,MF,Wales,1997,48,64,0
+Hassan Al Tambakti,DF,Saudi Arabia,1999,40,55,0
+Hassan Al-Haydos,MF,Qatar,1990,65,80,0
+Hattan Bahebri,MF,Saudi Arabia,1992,4,7,1
+Henry Martín,FW,Mexico,1992,13,20,0
+Hernán Galíndez,GK,Ecuador,1987,44,74,0
+Hidemasa Morita,MF,Japan,1995,129,157,0
+Hiroki Ito,DF,Japan,1999,58,63,0
+Hiroki Sakai,MF,Japan,1990,28,47,0
+Hirving Lozano,FW,Mexico,1995,42,77,0
+Homam Ahmed,DF,Qatar,1999,77,105,0
+Hong Chul,DF,Korea Republic,1990,17,20,0
+Hossein Hosseini,GK,IR Iran,1992,23,47,0
+Hossein Kanaanizadegan,DF,IR Iran,1994,8,11,0
+Hugo Lloris,GK,France,1986,110,182,0
+Hwang Hee-chan,MF,Korea Republic,1996,45,59,0
+Hwang In-beom,MF,Korea Republic,1996,194,247,0
+Hwang Ui-jo,FW,Korea Republic,1992,9,11,0
+Héctor Herrera,MF,Mexico,1990,64,78,0
+Héctor Moreno,DF,Mexico,1988,165,195,0
+Ibrahima Konaté,DF,France,1999,216,236,0
+Idrissa Gana Gueye,MF,Senegal,1989,107,133,0
+Ilias Chair,MF,Morocco,1997,13,15,0
+Iliman Ndiaye,FW,Senegal,2000,25,32,1
+Ismail Jakobs,DF,Senegal,1999,107,156,1
+Ismail Mohamad,FW,Qatar,1990,,,1
+Ismaila Sarr,FW,Senegal,1998,52,81,0
+Ismaël Koné,MF,Canada,2002,96,101,0
+Issam Jebali,FW,Tunisia,1991,25,35,0
+Ivan Ilić,MF,Serbia,2001,19,20,0
+Ivan Perišić,FW,Croatia,1989,202,292,3
+Iñaki Williams,FW,Ghana,1994,29,42,0
+Jack Grealish,FW,England,1995,48,54,0
+Jackson Irvine,MF,Australia,1993,103,128,0
+Jackson Porozo,DF,Ecuador,2000,39,44,0
+Jakub Kamiński,MF,Poland,2002,37,61,0
+Jakub Kiwior,DF,Poland,2000,174,205,0
+Jamal Musiala,MF,Germany,2003,85,105,1
+Jamie Maclaren,FW,Australia,1993,7,15,0
+Jan Bednarek,DF,Poland,1996,6,6,0
+Jan Vertonghen,DF,Belgium,1987,238,269,0
+Jason Cummings,FW,Australia,1995,4,6,0
+Jawad El Yamiq,DF,Morocco,1992,146,164,0
+Jean-Charles Castelletto,DF,Cameroon,1995,66,82,1
+Jeong Woo-yeong,MF,Korea Republic,1999,12,15,0
+Jeremy Doku,MF,Belgium,2002,8,14,0
+Jeremy Sarmiento,MF,Ecuador,2002,23,37,0
+Jerome Ngom Mbekeli,MF,Cameroon,1998,1,2,0
+Jesper Lindstrøm,MF,Denmark,2000,36,52,0
+Jesús Ferreira,FW,United States,2000,16,19,0
+Jesús Gallardo,DF,Mexico,1994,93,134,0
+Jewison Bennette,MF,Costa Rica,2004,11,14,0
+Jhegson Méndez,MF,Ecuador,1997,128,140,0
+Joachim Andersen,DF,Denmark,1996,198,250,1
+Joakim Mæhle,DF,Denmark,1997,119,146,0
+Joe Allen,MF,Wales,1990,30,36,0
+Joe Morrell,MF,Wales,1997,12,14,0
+Joe Rodon,DF,Wales,1997,152,169,0
+Joel Campbell,FW,Costa Rica,1992,104,138,0
+Johan Venegas,FW,Costa Rica,1988,11,14,0
+John Stones,DF,England,1994,435,454,0
+Jonas Hofmann,FW,Germany,1992,16,20,0
+Jonathan David,FW,Canada,2000,41,60,0
+Jonathan Osorio,MF,Canada,1992,52,57,0
+Jordan Ayew,FW,Ghana,1991,35,46,1
+Jordan Henderson,MF,England,1990,137,163,0
+Jordan Morris,FW,United States,1994,1,4,0
+Jordan Pickford,GK,England,1994,126,160,0
+Jordan Veretout,MF,France,1993,33,36,0
+Jordi Alba,DF,Spain,1989,328,372,2
+Jorge Eduardo Sánchez,DF,Mexico,1997,69,87,0
+Josh Sargent,FW,United States,2000,29,33,0
+Joshua Kimmich,MF,Germany,1995,226,267,0
+Josip Juranović,DF,Croatia,1995,318,405,1
+Josip Stanišić,DF,Croatia,2000,36,49,0
+Josip Šutalo,DF,Croatia,2000,62,66,0
+José Cifuentes,MF,Ecuador,1999,33,44,0
+José María Giménez,DF,Uruguay,1995,141,174,0
+João Cancelo,DF,Portugal,1994,221,271,0
+João Félix,FW,Portugal,1999,91,122,2
+João Mário,FW,Portugal,1993,37,40,0
+João Palhinha,MF,Portugal,1995,26,31,0
+Joško Gvardiol,DF,Croatia,2002,464,519,0
+Juan Foyth,DF,Argentina,1998,3,4,0
+Juan Pablo Vargas,DF,Costa Rica,1995,19,24,0
+Jude Bellingham,MF,England,2003,235,265,1
+Jules Koundé,DF,France,1998,252,311,0
+Julián Álvarez,FW,Argentina,2000,93,121,0
+Jung Woo-young,MF,Korea Republic,1989,178,211,0
+Junior Hoilett,FW,Canada,1990,43,59,0
+Junya Ito,MF,Japan,1993,59,97,1
+Jurriën Timber,DF,Netherlands,2001,283,313,0
+Kai Havertz,FW,Germany,1999,27,34,0
+Kalidou Koulibaly,DF,Senegal,1991,156,205,0
+Kalvin Phillips,MF,England,1995,17,19,1
+Kamal Miller,DF,Canada,1997,186,205,0
+Kamaldeen Sulemana,FW,Ghana,2002,10,19,0
+Kamil Glik,DF,Poland,1988,118,130,0
+Kamil Grosicki,MF,Poland,1988,4,6,0
+Kaoru Mitoma,MF,Japan,1997,50,70,1
+Karim Ansarifard,FW,IR Iran,1990,4,5,0
+Karim Boudiaf,MF,Qatar,1990,94,106,0
+Karl Toko Ekambi,FW,Cameroon,1992,43,53,0
+Karol Świderski,FW,Poland,1997,7,7,0
+Kasper Dolberg,FW,Denmark,1997,15,18,0
+Kasper Schmeichel,GK,Denmark,1986,72,87,0
+Keanu Baccus,MF,Australia,1998,26,41,0
+Kellyn Acosta,MF,United States,1995,10,12,0
+Kendall Waston,DF,Costa Rica,1988,57,71,0
+Kenneth Taylor,MF,Netherlands,2002,8,8,0
+Kevin De Bruyne,FW,Belgium,1991,93,136,0
+Kevin Rodríguez,FW,Ecuador,2000,,,0
+Kevin Álvarez,DF,Mexico,1999,19,29,0
+Keylor Navas,GK,Costa Rica,1986,61,102,0
+Keysher Fuller,DF,Costa Rica,1994,44,63,0
+Kieffer Moore,FW,Wales,1992,36,56,0
+Kieran Trippier,DF,England,1990,165,195,0
+Kim Jin-su,DF,Korea Republic,1992,105,146,1
+Kim Min-jae,DF,Korea Republic,1996,167,191,0
+Kim Moonhwan,DF,Korea Republic,1995,201,242,0
+Kim Seung-gyu,GK,Korea Republic,1990,93,128,0
+Kim Young-gwon,DF,Korea Republic,1990,178,209,0
+Kingsley Coman,FW,France,1996,56,72,0
+Ko Itakura,DF,Japan,1997,98,111,1
+Koke,MF,Spain,1992,56,62,0
+Kristijan Jakić,FW,Croatia,1997,0,0,0
+Krystian Bielik,MF,Poland,1998,86,99,0
+Krzysztof Piątek,FW,Poland,1995,2,6,0
+Krépin Diatta,FW,Senegal,1999,60,73,0
+Kudus Mohammed,FW,Ghana,2000,62,87,0
+Kwon Chang-hoon,FW,Korea Republic,1994,19,25,0
+Kwon Kyung-won,DF,Korea Republic,1992,39,43,0
+Kye Rowles,DF,Australia,1998,165,187,0
+Kyle Walker,DF,England,1990,162,181,0
+Kylian Mbappé,FW,France,1998,173,229,2
+Lautaro Martínez,FW,Argentina,1997,46,62,0
+Lawrence Ati-Zigi,GK,Ghana,1996,54,78,0
+Leander Dendoncker,DF,Belgium,1995,119,122,0
+Leandro Paredes,MF,Argentina,1994,230,246,0
+Leandro Trossard,FW,Belgium,1994,43,57,0
+Lee Jae-sung,MF,Korea Republic,1992,84,97,0
+Lee Kangin,MF,Korea Republic,2001,62,77,1
+Leon Goretzka,MF,Germany,1995,42,57,0
+Leroy Sané,FW,Germany,1996,47,58,1
+Liam Millar,DF,Canada,1999,4,9,0
+Lionel Messi,FW,Argentina,1987,301,372,3
+Lisandro Martínez,DF,Argentina,1998,133,156,0
+Lovro Majer,MF,Croatia,1998,78,98,0
+Loïs Openda,FW,Belgium,2000,3,5,0
+Lucas Cavallini,FW,Canada,1992,2,2,0
+Lucas Hernández,DF,France,1996,5,10,0
+Lucas Paquetá,MF,Brazil,1997,169,202,1
+Luis Chávez,MF,Mexico,1996,99,139,0
+Luis Suárez,FW,Uruguay,1987,25,40,1
+Luka Jović,FW,Serbia,1997,6,10,0
+Luka Modrić,MF,Croatia,1985,465,551,0
+Lukas Klostermann,DF,Germany,1996,51,52,0
+Luke Shaw,DF,England,1995,335,400,1
+Luuk de Jong,FW,Netherlands,1990,8,12,0
+Majid Hosseini,DF,IR Iran,1996,86,106,0
+Manuel Akanji,DF,Switzerland,1995,229,259,0
+Manuel Neuer,GK,Germany,1986,115,127,0
+Marcelo Brozović,MF,Croatia,1992,466,530,0
+Marco Asensio,FW,Spain,1996,89,119,0
+Marcos Acuña,DF,Argentina,1991,167,217,0
+Marcos Llorente,DF,Spain,1995,95,106,0
+Marcus Rashford,FW,England,1997,49,66,0
+Marcus Thuram,FW,France,1997,27,39,2
+Mario Götze,MF,Germany,1992,21,23,0
+Mario Pašalić,FW,Croatia,1995,76,95,0
+Mark-Anthony Kaye,MF,Canada,1994,51,61,0
+Marko Grujić,MF,Serbia,1996,14,17,0
+Marko Livaja,FW,Croatia,1993,35,58,1
+Marquinhos,DF,Brazil,1994,352,368,0
+Marten de Roon,MF,Netherlands,1991,97,119,0
+Martin Braithwaite,FW,Denmark,1991,14,20,0
+Martin Hongla,MF,Cameroon,1998,49,61,0
+Martinelli,FW,Brazil,2001,34,45,0
+Martín Cáceres,DF,Uruguay,1987,68,79,0
+Mason Mount,MF,England,1999,61,73,0
+Mateo Kovačić,MF,Croatia,1994,415,460,0
+Matheus Nunes,MF,Portugal,1998,28,33,0
+Mathew Leckie,MF,Australia,1991,67,103,1
+Mathew Ryan,GK,Australia,1992,113,164,0
+Mathias Jensen,MF,Denmark,1996,52,67,0
+Mathías Olivera,DF,Uruguay,1997,104,133,0
+Matt Turner,GK,United States,1994,101,128,0
+Matthias Ginter,DF,Germany,1994,3,3,0
+Matthijs de Ligt,DF,Netherlands,1999,41,45,0
+Matty Cash,DF,Poland,1997,123,160,0
+Mattéo Guendouzi,FW,France,1999,27,33,0
+Matías Vecino,MF,Uruguay,1991,76,106,0
+Matías Viña,DF,Uruguay,1997,11,21,0
+Maxi Gómez,FW,Uruguay,1996,5,7,0
+Maya Yoshida,DF,Japan,1988,198,232,1
+Mehdi Taremi,FW,IR Iran,1992,58,78,1
+Mehdi Torabi,MF,IR Iran,1994,30,37,0
+Memphis,FW,Netherlands,1994,93,123,0
+Meshaal Barsham,GK,Qatar,1998,45,63,0
+Michael Estrada,FW,Ecuador,1996,28,50,0
+Michał Skóraś,MF,Poland,2000,8,9,0
+Michel Aebischer,MF,Switzerland,1997,2,4,0
+Michy Batshuayi,FW,Belgium,1993,16,24,0
+Miki Yamane,DF,Japan,1993,24,33,0
+Mikkel Damsgaard,MF,Denmark,2000,55,72,0
+Milad Mohammadi,DF,IR Iran,1993,44,68,0
+Milan Borjan,GK,Canada,1987,76,98,0
+Miloš Degenek,DF,Australia,1994,67,101,0
+Miloš Veljković,DF,Serbia,1995,98,112,0
+Mislav Oršić,FW,Croatia,1992,40,54,2
+Mitchell Duke,FW,Australia,1991,36,63,0
+Mohamed Ali Ben Romdhane,MF,Tunisia,1999,14,21,0
+Mohamed Dräger,DF,Tunisia,1996,36,50,0
+Mohamed Kanno,MF,Saudi Arabia,1994,119,147,0
+Mohammed Al-Breik,DF,Saudi Arabia,1992,39,48,0
+Mohammed Al-Owais,GK,Saudi Arabia,1991,57,100,0
+Mohammed Muntari,FW,Qatar,1993,17,19,0
+Mohammed Salisu,DF,Ghana,1999,109,151,0
+Mohammed Waad,MF,Qatar,1999,9,12,0
+Moisés Caicedo,MF,Ecuador,2001,126,153,0
+Montassar Talbi,DF,Tunisia,1998,118,137,0
+Morteza Pouraliganji,DF,IR Iran,1992,92,128,0
+Moumi Ngamaleu,FW,Cameroon,1994,21,25,0
+Munir,GK,Morocco,1989,19,28,0
+Musab Kheder,DF,Qatar,1993,3,3,0
+Na Sang-ho,FW,Korea Republic,1996,24,37,0
+Nader Ghandri,DF,Tunisia,1995,27,33,0
+Nahuel Molina,DF,Argentina,1998,291,358,1
+Nampalys Mendy,MF,Senegal,1992,141,159,0
+Nasser Al-Dawsari,FW,Saudi Arabia,1998,11,11,0
+Nathan Aké,DF,Netherlands,1995,315,349,0
+Nathaniel Atkinson,DF,Australia,1999,27,34,0
+Nawaf Al Abed,MF,Saudi Arabia,1990,33,39,0
+Nayef Aguerd,DF,Morocco,1996,137,158,0
+Naïm Sliti,MF,Tunisia,1992,29,51,0
+Neco Williams,DF,Wales,2001,69,101,0
+Nemanja Gudelj,MF,Serbia,1991,44,52,0
+Nemanja Maksimović,MF,Serbia,1995,50,57,0
+Nemanja Radonjić,DF,Serbia,1996,15,24,0
+Neymar,MF,Brazil,1992,121,153,0
+Niclas Füllkrug,FW,Germany,1993,15,24,1
+Nico Elvedi,DF,Switzerland,1996,131,142,0
+Nico Schlotterbeck,DF,Germany,1999,110,123,0
+Nico Williams,FW,Spain,2002,50,63,0
+Nicola Zalewski,MF,Poland,2002,15,17,0
+Nicolas Jackson,FW,Senegal,2001,9,10,0
+Nicolas Nkoulou,DF,Cameroon,1990,79,91,1
+Nicolás De La Cruz,MF,Uruguay,1997,20,25,0
+Nicolás Otamendi,DF,Argentina,1988,532,577,1
+Nicolás Tagliafico,DF,Argentina,1992,145,178,0
+Niklas Süle,DF,Germany,1995,231,255,0
+Nikola Milenković,DF,Serbia,1997,141,163,0
+Nikola Vlašić,FW,Croatia,1997,45,55,0
+Noa Lang,MF,Netherlands,1999,1,3,0
+Noah Okafor,FW,Switzerland,2000,17,22,0
+Nouhou Tolo,DF,Cameroon,1997,83,109,0
+Noussair Mazraoui,DF,Morocco,1997,98,121,0
+Nuno Mendes,DF,Portugal,2002,29,32,0
+Néstor Araujo,DF,Mexico,1991,44,53,0
+Olivier Giroud,FW,France,1986,48,74,0
+Olivier Ntcham,MF,Cameroon,1996,11,12,0
+Orbelín Pineda,MF,Mexico,1996,18,25,0
+Osman Bukari,MF,Ghana,1998,14,20,0
+Otávio,MF,Portugal,1995,98,127,0
+Ousmane Dembélé,FW,France,1997,144,191,2
+Pablo Sarabia,FW,Spain,1992,2,5,0
+Paik Seung-ho,MF,Korea Republic,1997,20,27,0
+Pape Abou Cissé,DF,Senegal,1995,28,37,0
+Pape Gueye,MF,Senegal,1999,45,62,0
+Pape Matar Sarr,MF,Senegal,2002,36,43,0
+Papu Gómez,MF,Argentina,1988,53,60,0
+Pathé Ciss,MF,Senegal,1994,46,57,0
+Pau Torres,DF,Spain,1997,174,191,0
+Paulo Dybala,FW,Argentina,1993,8,12,0
+Pedri,MF,Spain,2002,393,434,0
+Pedro,FW,Brazil,1997,10,13,0
+Pepe,DF,Portugal,1983,243,295,0
+Pervis Estupiñán,DF,Ecuador,1998,148,190,0
+Phil Foden,FW,England,2000,90,117,2
+Piero Hincapié,DF,Ecuador,2002,168,200,0
+Pierre Højbjerg,MF,Denmark,1995,200,224,0
+Pierre Kunde,MF,Cameroon,1995,38,49,0
+Piotr Zieliński,MF,Poland,1994,124,153,0
+Przemysław Frankowski,MF,Poland,1995,49,74,0
+Rafael Leão,FW,Portugal,1999,32,47,0
+Raheem Sterling,FW,England,1994,45,55,1
+Ramin Rezaeian,DF,IR Iran,1990,73,105,0
+Randal Kolo Muani,FW,France,1998,25,44,0
+Raphaël Guerreiro,DF,Portugal,1993,156,185,2
+Raphaël Varane,DF,France,1993,256,286,0
+Raphinha,FW,Brazil,1996,111,150,1
+Rasmus Nissen,DF,Denmark,1997,137,179,0
+Raúl Jiménez,FW,Mexico,1991,20,32,0
+Remo Freuler,MF,Switzerland,1992,127,154,0
+Renato Steffen,FW,Switzerland,1991,13,15,0
+Ricardo Horta,FW,Portugal,1994,31,46,0
+Ricardo Rodríguez,DF,Switzerland,1992,164,229,0
+Richarlison,FW,Brazil,1997,40,58,0
+Richie Laryea,DF,Canada,1995,35,47,0
+Riley McGree,FW,Australia,1998,57,75,1
+Ritsu Doan,FW,Japan,1998,36,56,0
+Riyadh Sharahili,MF,Saudi Arabia,1993,14,17,0
+Roan Wilson,MF,Costa Rica,2002,4,4,0
+Robert Lewandowski,FW,Poland,1988,61,91,1
+Robert Skov,DF,Denmark,1996,17,21,0
+Roberto Alvarado,FW,Mexico,1998,5,10,0
+Rodri,DF,Spain,1996,642,689,0
+Rodrigo Bentancur,MF,Uruguay,1997,136,160,0
+Rodrigo De Paul,MF,Argentina,1994,470,562,0
+Rodrygo,MF,Brazil,2001,91,113,1
+Rogelio Funes Mori,FW,Mexico,1991,0,0,0
+Romain Saïss,DF,Morocco,1990,159,199,0
+Romario Ibarra,MF,Ecuador,1994,10,14,0
+Romelu Lukaku,FW,Belgium,1993,6,9,0
+Roozbeh Cheshmi,DF,IR Iran,1993,7,11,0
+Ruben Vargas,FW,Switzerland,1998,80,117,1
+Rubin Colwill,MF,Wales,2002,2,4,0
+Ró-Ró,DF,Qatar,1990,78,108,0
+Rónald Matarrita,DF,Costa Rica,1994,18,29,0
+Rúben Dias,DF,Portugal,1997,248,274,0
+Rúben Neves,MF,Portugal,1997,235,257,0
+Saad Al Sheeb,GK,Qatar,1990,18,20,0
+Sadegh Moharrami,DF,IR Iran,1996,18,26,0
+Saeid Ezatolahi,MF,IR Iran,1996,66,88,0
+Saleh Al-Shehri,FW,Saudi Arabia,1993,29,47,0
+Salem Al-Dawsari,MF,Saudi Arabia,1991,86,111,0
+Salis Abdul Samed,MF,Ghana,2000,129,145,0
+Salman Al-Faraj,MF,Saudi Arabia,1989,12,16,0
+Sam Adekugbe,DF,Canada,1995,63,71,0
+Saman Ghoddos,MF,IR Iran,1993,15,20,0
+Sami Al-Najei,MF,Saudi Arabia,1997,13,21,0
+Samuel Oum Gouet,MF,Cameroon,1997,52,59,0
+Sardar Azmoun,FW,IR Iran,1995,18,30,0
+Saud Abdulhamid,DF,Saudi Arabia,1999,88,122,0
+Saša Lukić,MF,Serbia,1996,143,162,0
+Sebastian Szymański,MF,Poland,1999,26,41,0
+Sebastián Coates,DF,Uruguay,1990,76,93,0
+Selim Amallah,MF,Morocco,1996,65,87,0
+Serge Gnabry,FW,Germany,1995,86,118,1
+Sergej Milinković-Savić,MF,Serbia,1995,87,120,0
+Sergio Busquets,MF,Spain,1988,261,289,0
+Sergio Rochet,GK,Uruguay,1993,54,78,0
+Sergiño Dest,DF,United States,2000,172,200,1
+Shaquell Moore,DF,United States,1996,14,21,0
+Shogo Taniguchi,DF,Japan,1991,72,85,0
+Shūichi Gonda,GK,Japan,1989,68,113,0
+Silvan Widmer,DF,Switzerland,1993,127,169,1
+Simon Kjær,DF,Denmark,1989,50,59,0
+Sofiane Boufal,FW,Morocco,1993,99,133,0
+Sofyan Amrabat,MF,Morocco,1996,269,322,0
+Son Heung-min,FW,Korea Republic,1992,77,115,1
+Son Jun-ho,MF,Korea Republic,1992,55,59,0
+Sorba Thomas,MF,Wales,1999,3,4,0
+Srđan Babić,DF,Serbia,1996,10,16,0
+Stefan Mitrović,DF,Serbia,1990,18,21,0
+Stephen Eustáquio,MF,Canada,1996,83,93,0
+Steve Mandanda,GK,France,1985,19,31,0
+Steven Berghuis,MF,Netherlands,1991,97,131,1
+Steven Bergwijn,FW,Netherlands,1997,64,72,0
+Steven Vitória,DF,Canada,1987,160,186,0
+Strahinja Pavlović,DF,Serbia,2001,121,156,0
+Sultan Al-Ghanam,DF,Saudi Arabia,1994,34,52,0
+Taha Yassine Khenissi,FW,Tunisia,1992,2,6,0
+Tajon Buchanan,MF,Canada,1999,61,89,1
+Takefusa Kubo,FW,Japan,2001,6,11,0
+Takehiro Tomiyasu,DF,Japan,1998,73,103,0
+Takuma Asano,FW,Japan,1994,21,28,0
+Takumi Minamino,FW,Japan,1995,14,22,0
+Tarek Salman,DF,Qatar,1997,7,10,0
+Tariq Lamptey,DF,Ghana,2000,21,34,0
+Teun Koopmeiners,MF,Netherlands,1998,90,119,1
+Theo Hernández,DF,France,1997,289,339,2
+Thiago Almada,MF,Argentina,2001,13,13,0
+Thiago Silva,DF,Brazil,1984,322,344,1
+Thibaut Courtois,GK,Belgium,1992,108,123,0
+Thilo Kehrer,DF,Germany,1996,22,29,0
+Thomas Delaney,MF,Denmark,1991,24,29,0
+Thomas Meunier,DF,Belgium,1991,110,147,0
+Thomas Müller,FW,Germany,1989,56,78,0
+Thomas Partey,MF,Ghana,1993,146,176,0
+Thorgan Hazard,FW,Belgium,1993,40,58,0
+Tim Ream,DF,United States,1987,245,276,0
+Timothy Castagne,DF,Belgium,1995,176,202,0
+Timothy Weah,FW,United States,2000,90,108,0
+Toby Alderweireld,DF,Belgium,1989,248,273,1
+Trent Alexander-Arnold,DF,England,1998,21,23,0
+Tyler Adams,MF,United States,1999,241,271,0
+Unai Simón,GK,Spain,1997,150,160,0
+Uriel Antuna,FW,Mexico,1997,12,20,0
+Vanja Milinković-Savić,GK,Serbia,1997,90,125,0
+Victor Nelsson,DF,Denmark,1998,69,74,0
+Vincent Aboubakar,FW,Cameroon,1992,20,31,1
+Vincent Janssen,FW,Netherlands,1994,16,20,0
+Vinicius Júnior,FW,Brazil,2000,68,90,2
+Virgil van Dijk,DF,Netherlands,1991,311,356,0
+Vitinha,MF,Portugal,2000,100,108,0
+Wahbi Khazri,FW,Tunisia,1991,13,20,0
+Wajdi Kechrida,DF,Tunisia,1995,44,69,0
+Walid Cheddira,FW,Morocco,1998,4,8,0
+Walker Zimmerman,DF,United States,1993,217,244,0
+Wataru Endo,MF,Japan,1993,155,192,0
+Wayne Hennessey,GK,Wales,1987,50,66,0
+Weston McKennie,MF,United States,1998,117,153,0
+William Carvalho,MF,Portugal,1992,156,170,0
+William Saliba,DF,France,2001,37,37,0
+Wojciech Szczęsny,GK,Poland,1990,84,142,0
+Wout Weghorst,FW,Netherlands,1992,9,15,0
+Wéverton,GK,Brazil,1987,3,5,0
+Xavi Simons,FW,Netherlands,2003,6,10,0
+Xherdan Shaqiri,FW,Switzerland,1991,67,104,1
+Yahya Attiat Allah,DF,Morocco,1995,98,137,1
+Yahya Jabrane,MF,Morocco,1991,,,0
+Yann Sommer,GK,Switzerland,1988,108,118,0
+Yannick Carrasco,FW,Belgium,1993,39,46,0
+Yasser Al-Shahrani,DF,Saudi Arabia,1992,13,29,0
+Yassine Bounou,GK,Morocco,1991,154,209,0
+Yassine Meriah,DF,Tunisia,1993,139,171,0
+Yeltsin Tejeda,MF,Costa Rica,1992,78,99,1
+Youri Tielemans,MF,Belgium,1997,53,64,0
+Youssef En-Nesyri,FW,Morocco,1997,50,81,0
+Youssef Msakni,MF,Tunisia,1990,50,69,0
+Youssouf Fofana,MF,France,1999,96,112,0
+Youssouf Sabaly,DF,Senegal,1993,189,219,0
+Youssoufa Moukoko,FW,Germany,2004,1,2,0
+Youstin Salas,DF,Costa Rica,1996,15,19,0
+Yuki Soma,FW,Japan,1997,11,19,0
+Yunus Musah,MF,United States,2002,151,182,0
+Yuto Nagatomo,MF,Japan,1986,78,109,0
+Zakaria Aboukhlal,FW,Morocco,2000,7,14,0
+Álvaro Morata,FW,Spain,1992,28,41,1
+Álvaro Zamora,MF,Costa Rica,2002,5,5,0
+Ángel Correa,MF,Argentina,1995,3,3,0
+Ángel Di María,MF,Argentina,1988,130,168,1
+Ángelo Preciado,DF,Ecuador,1998,94,129,1
+Éder Militão,DF,Brazil,1998,251,277,0
+Óscar Duarte,DF,Costa Rica,1989,68,98,0
+İlkay Gündoğan,MF,Germany,1990,150,168,0

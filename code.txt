@@ -1,0 +1,99 @@
+import pandas as pd
+from sklearn.model_selection import train_test_split
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.preprocessing import LabelEncoder
+from sklearn.metrics import classification_report
+from sklearn.metrics import confusion_matrix
+
+strikers_data = pd.read_csv('player_shooting.csv')
+midfielders_data = pd.read_csv('player_passing.csv')
+goalies_data = pd.read_csv('player_keepers.csv')
+defenders_data = pd.read_csv('player_defense.csv')
+
+strikers_data.fillna(0, inplace=True)
+midfielders_data.fillna(0, inplace=True)
+goalies_data.fillna(0, inplace=True)
+defenders_data.fillna(0, inplace=True)
+
+def get_top_players_by_percentage(data, percentage, stat):
+    num_players = int(len(data) * percentage)
+    top_players = data.nlargest(num_players, stat, keep='all')
+    return top_players
+
+strikers_criteria = {'goals': (None, 0.2), 'shots_on_target': (None, 0.2)}
+midfielders_criteria = {'assists': (None, 0.2), 'passes_completed': (None, 0.2)}
+goalies_criteria = {'gk_clean_sheets': (None, 0.2), 'gk_saves': (0.8, 1)}
+defenders_criteria = {'tackles': (None, 0.2), 'blocks': (None, 0.2)}
+
+top_strikers = pd.DataFrame()
+top_midfielders = pd.DataFrame()
+top_goalies = pd.DataFrame()
+top_defenders = pd.DataFrame()
+
+for stat, (min_value, percentage) in strikers_criteria.items():
+    if min_value is not None:
+        top_strikers = pd.concat([top_strikers, strikers_data[strikers_data[stat] >= min_value]])
+    else:
+        top_strikers = pd.concat([top_strikers, get_top_players_by_percentage(strikers_data, percentage, stat)])
+
+for stat, (min_value, percentage) in midfielders_criteria.items():
+    if min_value is not None:
+        top_midfielders = pd.concat([top_midfielders, midfielders_data[midfielders_data[stat] >= min_value]])
+    else:
+        top_midfielders = pd.concat([top_midfielders, get_top_players_by_percentage(midfielders_data, percentage, stat)])
+
+for stat, (min_value, percentage) in goalies_criteria.items():
+    if min_value is not None:
+        top_goalies = pd.concat([top_goalies, goalies_data[goalies_data[stat] >= min_value]])
+    else:
+        top_goalies = pd.concat([top_goalies, get_top_players_by_percentage(goalies_data, percentage, stat)])
+
+for stat, (min_value, percentage) in defenders_criteria.items():
+    if min_value is not None:
+        top_defenders = pd.concat([top_defenders, defenders_data[defenders_data[stat] >= min_value]])
+    else:
+        top_defenders = pd.concat([top_defenders, get_top_players_by_percentage(defenders_data, percentage, stat)])
+
+all_players_data = pd.concat([top_strikers.head(10), top_midfielders.head(10), top_goalies.head(5), top_defenders.head(10)], ignore_index=True)
+
+all_player_names = all_players_data['player'].tolist()
+dataframes = [strikers_data, midfielders_data, goalies_data, defenders_data]
+
+for df in dataframes:
+    for player in all_player_names:
+        if player in df['player'].tolist():
+            all_player_row = all_players_data[all_players_data['player'] == player]
+            for col in all_player_row.columns:
+                if col != 'player':
+                    df.loc[df['player'] == player, col] = all_player_row[col].values[0]
+all_players_data.fillna(0, inplace=True)
+all_players_data
+
+formation = input("Enter formation: ")
+
+def select_players_by_position(data, position, num_players):
+    return data[data['position'] == position].head(num_players)
+
+def find_best_11_players(data, formation):
+    positions = formation.split('-')
+    num_forwards = int(positions[2])
+    num_midfielders = int(positions[1])
+    num_defenders = int(positions[0])
+    num_goalkeepers = 1
+
+    best_forwards = select_players_by_position(data, 'FW', num_forwards)
+    best_midfielders = select_players_by_position(data, 'MF', num_midfielders)
+    best_defenders = select_players_by_position(data, 'DF', num_defenders)
+    best_goalkeepers = select_players_by_position(data, 'GK', num_goalkeepers)
+
+    best_11_players = pd.concat([best_forwards, best_midfielders, best_defenders, best_goalkeepers])
+
+    return best_11_players
+
+best_11_players = find_best_11_players(all_players_data, formation)
+
+selected_columns = ['player', 'position', 'team']
+best_11_players_info = best_11_players[selected_columns].reset_index(drop=True)
+best_11_players_info.index += 1  
+
+print(best_11_players_info)
